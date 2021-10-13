@@ -1,7 +1,7 @@
 %------------------------------------------------------------------------------------------------------------------------
 % Contributed by Zhe Liu
 % Ref:
-% Credal Transfer Learning with Multi-estimation for Missing Data (IEEE ACCESS 2021).
+% Credal Transfer Learning with Multi-estimation for Missing Data (IEEE ACCESS 2020).
 %------------------------------------------------------------------------------------------------------------------------
 function [I, D]= Find_KNN(data_com, data_inc, KK)
 
