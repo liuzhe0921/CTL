@@ -1,7 +1,7 @@
 %------------------------------------------------------------------------------------------------------------------------
 % Contributed by Zhe Liu
 % Ref:
-% Credal Transfer Learning with Multi-estimation for Missing Data (IEEE ACCESS 2021).
+% Credal Transfer Learning with Multi-estimation for Missing Data (IEEE ACCESS 2020).
 %------------------------------------------------------------------------------------------------------------------------
 clear
 clc
